@@ -1,6 +1,7 @@
-# Online Recurrent Extreme Learning Machine with Genetic Algorithm and Adaptive Forgetting Factor (ORELM-GA-AFF)
+# Stock Price Forecast Using Online Learning Model
 
 ## Overview
+ Online Recurrent Extreme Learning Machine with Genetic Algorithm and Adaptive Forgetting Factor (ORELM-GA-AFF)
 
 ## Dataset
 
