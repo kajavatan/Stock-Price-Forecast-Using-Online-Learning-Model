@@ -7,9 +7,14 @@
 
 ## Algorithms
 
+
 ## Requirements 
 
 ## Usage
+
+Run prediction code:
+
+`python run.py`
 
 ## Result
 
