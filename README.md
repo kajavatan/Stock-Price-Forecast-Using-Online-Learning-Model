@@ -15,6 +15,7 @@ Continuous variation in stock market lays people into confusion. Forecasting sto
 - An online learning method based on Extreme Learning Machine (ELM)  
 Paper: *Liang, Nan-Ying, et al. "A fast and accurate online sequential learning algorithm for feedforward networks." IEEE Transactions on neural networks 17.6 (2006): 1411-1423.*
 
+<p> &nbsp</p>
 
 2. **Online Recurrent Extreme Learning Machine (OR-ELM)**   
 - Paper: *Jin-Man Park, and Jong-Hwan Kim. "Online recurrent extreme learning machine and its application to time-series prediction." Neural Networks (IJCNN), 2017 International Joint Conference on. IEEE, 2017.*  
@@ -24,26 +25,21 @@ Paper: *Liang, Nan-Ying, et al. "A fast and accurate online sequential learning 
 
 - FOS-ELM + Layer Normalization + forgetting factor + weight auto-encoding (input->hidden, hidden->hidden)
 
-
-
+<p> &nbsp</p>
 3. **Online Recurrent Extreme Learning Machine with Adaptive Forgetting Factor (ORELM-AFF) (PROPOSED)**
 - Integrates OR-ELM with adaptive forgetting factor (FF) to handle time-varying sequential data, since a constant forgetting factor may not be sufficient to track all the system dynamics
-
 - With this forgetting mechanism, the forgetting factor, λ will be adjusted based on the changes of the data characteristics.
-
 - Specifically, when there is a abrupt change in the data distribution, a smaller forgetting factor will be used to adapt to the trend and discard the older data that will bring negative effect on the prediction accuracy. On the contrary, a larger forgetting factor will be used when the trend is steadier to increase the memory length of the algorithm. 
-
 - The recursive update of the forgetting factor was adopted from the research conducted by Li, Zhang, Yin, Xiao & Zhang (2017).
 
- 
+
 <p align="center">
   <img src ="https://s3-ap-southeast-1.amazonaws.com/mhlee2907/time+series+7.jpg" />
 </p>
-   
-   
+<p> &nbsp</p>
+
 4. **Online Recurrent Extreme Learning Machine with Adaptive Forgetting Factor and Genetic Algorithm (ORELM-AFF-GA) (PROPOSED)**
 - Added Steady State Genetic Algorithm Genetic Algorithm (GA) for hyperparamater optimization.
-
 - Efficiently select optimal parameters (window size and number of hidden neurons) in a large complex search space.
 
  Below figure depicts a 3-dimensional scatter plot showing the distribution of the solutions generated using GA where a lighter-colored point indicates better solution sets and darker-colored point represents weaker solution sets.
