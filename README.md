@@ -81,7 +81,7 @@ Prediction Performance of all algorithms:
 </p>
 
 
-## Rerefences
+## References
 Jin-Man Park, and Jong-Hwan Kim, Online-Recurrent-Extreme-Learning-Machine, (2017), GitHub repository, https://github.com/chickenbestlover/Online-Recurrent-Extreme-Learning-Machine
 
 Li, Y., Zhang, S., Yin, Y., Xiao, W., & Zhang, J. (2017). A Novel Online Sequential Extreme Learning Machine for Gas Utilization Ratio Prediction in Blast Furnaces. Sensors, 17(8), 1847. doi: 10.3390/s17081847
