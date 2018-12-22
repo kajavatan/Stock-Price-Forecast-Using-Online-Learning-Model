@@ -41,7 +41,7 @@ Paper: *Liang, Nan-Ying, et al. "A fast and accurate online sequential learning 
 - Added Steady State Genetic Algorithm Genetic Algorithm (GA) for hyperparamater optimization.
 - Efficiently select optimal parameters (window size and number of hidden neurons) in a large complex search space.
 
- Below figure depicts a 3-dimensional scatter plot showing the distribution of the solutions generated using GA where a lighter-colored point indicates better solution sets and darker-colored point represents weaker solution sets.
+  Below figure depicts a 3-dimensional scatter plot showing the distribution of the solutions generated using GA where a lighter-colored point indicates better solution sets and darker-colored point represents weaker solution sets.
 
 <p align="center">
   <img src ="https://s3-ap-southeast-1.amazonaws.com/mhlee2907/time+series+3.JPG"  height="350" width="400" />
