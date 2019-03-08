@@ -38,7 +38,7 @@ Paper: *Liang, Nan-Ying, et al. "A fast and accurate online sequential learning 
 </p>
 
 4. **Online Recurrent Extreme Learning Machine with Adaptive Forgetting Factor and Genetic Algorithm (ORELM-AFF-GA) (PROPOSED)**
-- Added Steady State Genetic Algorithm Genetic Algorithm (GA) for hyperparamater optimization.
+- Added Steady State Genetic Algorithm (GA) for hyperparamater optimization.
 - Efficiently select optimal parameters (window size and number of hidden neurons) in a large complex search space.
 
   Below figure depicts a 3-dimensional scatter plot showing the distribution of the solutions generated using GA where a lighter-colored point indicates better solution sets and darker-colored point represents weaker solution sets.
